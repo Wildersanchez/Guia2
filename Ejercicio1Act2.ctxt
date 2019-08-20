@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Ejercicio1Act2
-comment0.text=\r\n\ Permite\ calcular\ el\ mayor\ y\ menor\ numero\ de\ una\ lista.\r\n\ \r\n\ @author\ NicolasRamirez_WilderSanchez\r\n\ @version\ 19082019\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
